@@ -15,10 +15,22 @@ string delimiter = ",";
 List<string[]> records;
 using (TextReader textReader = new StreamReader(path))
 {
-	StringDelimitedReader reader = new StringDelimitedReader(textReader, delimiter);
-	records = reader.ReadToEnd();
+  StringDelimitedReader reader = new StringDelimitedReader(textReader, delimiter);
+  records = reader.ReadToEnd();
 }
 ```
+
+```vba
+Sub sbWriteIntoCellData()
+  Cells(1, 1)="Hello World"
+  'Here the first value is Row Value and the second one is column value 
+  'Cells(1, 1) means first row first column
+End Sub
+```
+
+
+
+
 
 
 | 0:0 | 1:0 |
