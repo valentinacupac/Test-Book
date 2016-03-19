@@ -7,6 +7,20 @@ FTTT
 
 ```fdgfdgfdg```
 
+
+```cs
+string path = @"C:\path\to\some_file.csv";
+string delimiter = ",";
+
+List<string[]> records;
+using (TextReader textReader = new StreamReader(path))
+{
+	StringDelimitedReader reader = new StringDelimitedReader(textReader, delimiter);
+	records = reader.ReadToEnd();
+}
+```
+
+
 | 0:0 | 1:0 |
 | -- | -- |
 | 0:2 | 1:2 |
