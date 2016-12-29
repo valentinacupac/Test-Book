@@ -1,5 +1,6 @@
 {
     "title": "Hello Some title here",
     "description": "Hello some description",
-    "author": "Hello some author"
+    "author": "Hello some author",
+    "plugins": ["mathjax"]
 }

@@ -1,8 +1,8 @@
 # First Chapter
 
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.THISISsomething
-``````NDHRBFJRNF
 
+``````NDHRBFJRNF
 FTTT
 
 ```fdgfdgfdg```
@@ -28,13 +28,8 @@ Sub sbWriteIntoCellData()
 End Sub
 ```
 
-
-
-
-
-
 | 0:0 | 1:0 |
-| -- | -- |
+| --- | --- |
 | 0:2 | 1:2 |
 
 ## gfgfddgf Me heading
@@ -43,9 +38,9 @@ End Sub
 * fdgfdg
 * ggdffdf
 
-
 $$x + y = 5$$
 
 [Something](http://google.com)
 
 ![](2014-08-07 08.44.49.jpg)
+
