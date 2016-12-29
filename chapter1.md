@@ -42,5 +42,15 @@ $$x + y = 5$$
 
 [Something](http://google.com)
 
+
+
+Test math copied from https://www.npmjs.com/package/gitbook-plugin-mathjax 
+
+When {% math %}a \ne 0{% endmath %}, there are two solutions to {% math %}\(ax^2 + bx + c = 0\){% endmath %} and they are {% math %}x = {-b \pm \sqrt{b^2-4ac} \over 2a}.{% endmath %}
+
+When $$a \ne 0$$, there are two solutions to $$\(ax^2 + bx + c = 0\)$$ and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
+
+
 ![](2014-08-07 08.44.49.jpg)
 
