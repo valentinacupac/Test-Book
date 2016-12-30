@@ -54,3 +54,5 @@ When $$a \ne 0$$, there are two solutions to $$(ax^2 + bx + c = 0
 
 ![](2014-08-07 08.44.49.jpg)
 
+
+This is a [link](https://www.google.rs "Some title")
